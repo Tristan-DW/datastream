@@ -1,6 +1,6 @@
 # Notes
 
-feat: extend config options
+refactor: simplify conditional logic
 
-Timestamp: 2024-11-26T20:06:20Z
-Nonce: 416136
+Timestamp: 2024-11-30T11:35:45Z
+Nonce: 955179
