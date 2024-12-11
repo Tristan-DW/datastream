@@ -1,6 +1,6 @@
 # Notes
 
-fix: edge case in request validation
+fix: type mismatch in serializer
 
-Timestamp: 2024-12-11T13:14:15Z
-Nonce: 493538
+Timestamp: 2024-12-11T14:12:25Z
+Nonce: 217868
