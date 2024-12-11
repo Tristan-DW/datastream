@@ -1,6 +1,6 @@
 # Notes
 
-feat: wire up missing route handler
+fix: edge case in request validation
 
-Timestamp: 2024-12-10T13:53:43Z
-Nonce: 497256
+Timestamp: 2024-12-11T13:14:15Z
+Nonce: 493538
