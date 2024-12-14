@@ -1,6 +1,6 @@
 # Notes
 
-fix: type mismatch in serializer
+feat: improve logging verbosity
 
-Timestamp: 2024-12-11T14:12:25Z
-Nonce: 217868
+Timestamp: 2024-12-14T12:55:38Z
+Nonce: 572944
