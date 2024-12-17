@@ -1,6 +1,6 @@
 # Notes
 
-perf: reduce redundant lookups
+feat: add missing index to schema
 
-Timestamp: 2024-12-16T20:56:59Z
-Nonce: 986313
+Timestamp: 2024-12-17T13:07:31Z
+Nonce: 755477
