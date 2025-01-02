@@ -1,6 +1,6 @@
 # Notes
 
-fix: type mismatch in serializer
+fix: correct default value handling
 
-Timestamp: 2024-12-31T08:08:40Z
-Nonce: 682303
+Timestamp: 2025-01-02T11:37:07Z
+Nonce: 930451
