@@ -1,6 +1,6 @@
 # Notes
 
-fix: handle empty array input
+feat: extend config options
 
-Timestamp: 2025-01-09T13:20:07Z
-Nonce: 935557
+Timestamp: 2025-01-10T14:30:46Z
+Nonce: 305404
