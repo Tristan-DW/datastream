@@ -1,6 +1,6 @@
 # Notes
 
-fix: edge case in request validation
+feat: add debug flag support
 
-Timestamp: 2025-01-15T19:56:09Z
-Nonce: 532085
+Timestamp: 2025-01-20T11:59:11Z
+Nonce: 812819
