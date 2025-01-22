@@ -1,6 +1,6 @@
 # Notes
 
-feat: add debug flag support
+chore: tidy up unused variables
 
-Timestamp: 2025-01-20T11:59:11Z
-Nonce: 812819
+Timestamp: 2025-01-22T13:07:54Z
+Nonce: 140396
