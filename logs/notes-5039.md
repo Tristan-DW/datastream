@@ -1,6 +1,6 @@
 # Notes
 
-chore: tidy up unused variables
+feat: add missing null checks
 
-Timestamp: 2025-01-22T13:07:54Z
-Nonce: 140396
+Timestamp: 2025-01-23T09:17:22Z
+Nonce: 347098
