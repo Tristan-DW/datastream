@@ -1,6 +1,6 @@
 # Notes
 
-fix: edge case in request validation
+feat: extend config options
 
-Timestamp: 2025-02-09T17:58:52Z
-Nonce: 508954
+Timestamp: 2025-02-12T09:48:39Z
+Nonce: 988038
