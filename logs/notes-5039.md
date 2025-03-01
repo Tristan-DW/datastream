@@ -1,6 +1,6 @@
 # Notes
 
-feat: add missing null checks
+fix: handle empty array input
 
-Timestamp: 2025-02-27T11:47:06Z
-Nonce: 999259
+Timestamp: 2025-03-01T08:41:27Z
+Nonce: 605625
