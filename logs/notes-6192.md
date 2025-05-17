@@ -1,6 +1,6 @@
 # Notes
 
-feat: add missing null checks
+feat: add missing index to schema
 
-Timestamp: 2025-05-15T17:18:04Z
-Nonce: 990906
+Timestamp: 2025-05-17T15:34:28Z
+Nonce: 652149
