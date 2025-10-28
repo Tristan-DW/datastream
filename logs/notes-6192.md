@@ -1,6 +1,6 @@
 # Notes
 
-chore: clean up after merge
+feat: add debug flag support
 
-Timestamp: 2025-10-23T17:10:56Z
-Nonce: 783377
+Timestamp: 2025-10-28T15:54:10Z
+Nonce: 421996
