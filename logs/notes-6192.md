@@ -1,6 +1,6 @@
 # Notes
 
-feat: add debug flag support
+fix: prevent duplicate submissions
 
-Timestamp: 2025-10-28T15:54:10Z
-Nonce: 421996
+Timestamp: 2025-11-19T14:56:21Z
+Nonce: 714196
