@@ -1,6 +1,6 @@
 # Notes
 
-fix: resolve flaky test
+fix: type mismatch in serializer
 
-Timestamp: 2025-12-31T13:27:11Z
-Nonce: 280547
+Timestamp: 2026-01-02T07:37:02Z
+Nonce: 758091
