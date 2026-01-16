@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0121
+## Entry 0122
 
-- **Timestamp:** `2026-01-16T12:43:16Z`
-- **Commit:** 121 of 150
-- **Note:** feat: add pagination to list endpoints
-- **Nonce:** 504982
+- **Timestamp:** `2026-01-16T16:21:21Z`
+- **Commit:** 122 of 150
+- **Note:** refactor: decouple business logic from transport
+- **Nonce:** 479972
