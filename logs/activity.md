@@ -1,8 +1,8 @@
 # Activity Log
 
-## Entry 0120
+## Entry 0121
 
-- **Timestamp:** `2026-01-14T09:24:20Z`
-- **Commit:** 120 of 150
-- **Note:** refactor: extract reusable helper functions
-- **Nonce:** 580110
+- **Timestamp:** `2026-01-16T12:43:16Z`
+- **Commit:** 121 of 150
+- **Note:** feat: add pagination to list endpoints
+- **Nonce:** 504982
